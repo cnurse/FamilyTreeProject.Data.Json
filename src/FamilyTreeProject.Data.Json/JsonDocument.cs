@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using FamilyTreeProject.Core.Data;
-using FamilyTreeProject.Data.Common.DataModels;
+using FamilyTreeProject.Common.Data;
+using FamilyTreeProject.Common.DataModels;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;

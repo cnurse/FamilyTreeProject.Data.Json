@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using FamilyTreeProject.Core;
-using FamilyTreeProject.Core.Common;
-using FamilyTreeProject.Data.Common;
-using FamilyTreeProject.Data.Common.DataModels;
-using FamilyTreeProject.Data.Common.Mapping;
+using FamilyTreeProject.Common;
+using FamilyTreeProject.Common.IO;
+using FamilyTreeProject.Common.Mapping;
+using FamilyTreeProject.Common.Models;
+using FamilyTreeProject.Common.DataModels;
 
 namespace FamilyTreeProject.Data.Json
 {
