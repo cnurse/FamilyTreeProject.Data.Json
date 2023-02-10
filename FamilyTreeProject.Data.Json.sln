@@ -8,7 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24156BBA-90F7-40B4-8C02-67CF2B328FDD}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		azure-pipelines.yaml = azure-pipelines.yaml
 		LICENSE = LICENSE
 		README.md = README.md
 		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
